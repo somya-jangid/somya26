@@ -1,0 +1,1 @@
+import React from 'react';function Header() {return (<header className="header"><div className="logo">Netflix</div><nav><ul><li>Home</li><li>TV Shows</li><li>Movies</li><li>New & Popular</li><li>My List</li></ul></nav><div className="profile"><img src="https://www.pexels.com/photo/man-wearing-black-shirt-1933873/" alt="Profile" /></div></header>);}export default Header;
